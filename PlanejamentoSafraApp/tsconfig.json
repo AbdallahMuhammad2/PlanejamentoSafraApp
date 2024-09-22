@@ -1,0 +1,8 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "jsx": "react-native", // Use 'react' se for um projeto web, 'react-native' para React Native
+
+  }
+}
